@@ -1,0 +1,13 @@
+{
+  "title": "Example Package",
+  "description": "Example Rice Package",
+  "fileLocation:": "/exampleUser/examplePackage",
+  "versionInfo": {
+    "string": "1.0.0.0",
+    "extra": "",
+    "breaking": 1
+  },
+  "requiredPackages": [
+    "ricing/example2", ["system/eww", "system/eww-git"]
+  ]
+}
