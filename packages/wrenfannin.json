@@ -9,6 +9,6 @@
     "breaking": 1
   },
   "requiredPackages": [
-    ["system/dunst", "system/picom", "system/sxhkd", "system/dmenu"]
+    "system/dunst", "system/picom", "system/sxhkd", "system/dmenu"
   ]
 }
