@@ -1,0 +1,80 @@
+* {
+  font-family: "FiraCode Nerd Font";
+  border: none;
+  outline: none;
+}
+
+#window {
+  /*margin: 5px;*/
+  background-color: transparent;
+  /*background-color: rgba(255, 255, 255, 0.85);*/
+  /*border: 3px dotted red;*/
+}
+
+#entry {
+  border: none;
+  /*overflow:hidden;*/
+  /*border: 3px solid red;*/
+  /*overflow-wrap: break-word;*/
+}
+
+#entry * {
+  overflow-wrap: break-word;
+}
+
+#input {
+  margin: 5px;
+  margin-left: 350px;
+  margin-right: 350px;
+  border-radius: 2px;
+  padding: 10px;
+  border: 2px solid gray;
+}
+
+#scroll {
+  margin: 5px;
+  background-color: rgba(26, 26, 26, 0.85);
+  border-radius: 2px;
+  font-size: 1.25em;
+  padding: 10px;
+  /*border: 2px solid rgba(0, 157, 229, 1);*/
+  /*overflow:hidden;*/
+  /*border: 1px solid rgba(246, 246, 239, 0.85);*/
+  box-shadow: 0 8px 6px -6px rgba(246, 246, 239, 0.55);
+  /*border: 3px dotted yellow;*/
+  /*overflow-wrap: break-word;*/
+  padding-right: 100px;
+}
+
+#outer-box {
+  margin: 5px;
+  border: none;
+  /*border: 3px solid green;*/
+}
+
+#inner-box {
+  /*margin: 5px;*/
+  padding: 5px;
+  border: none;
+  /*border: 6px dotted purple;*/
+}
+
+#text {
+  /*margin: 5px;*/
+  padding: 5px;
+  /*color: #1a1a1a; */
+  border: none;
+  /*border: 3px solid white;*/
+}
+
+/*entry:unselected {*/
+/*color: rgba(217, 216, 216, 1);*/
+/*}*/
+
+#entry:selected {
+  background-color: transparent;
+  color: #fa8419;
+  font-weight: 600;
+  /*border: 3px solid red;*/
+  word-wrap: break-word;
+}

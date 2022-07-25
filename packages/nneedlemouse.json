@@ -1,0 +1,13 @@
+{
+  "title": "NNeedlemouse's sway config",
+  "description": "I love wayland",
+  "fileLocation:": "/NNeedlemouse/Sway",
+  "versionInfo": {
+    "string": "1.0.0.0",
+    "extra": "",
+    "breaking": 1
+  },
+  "requiredPackages": [
+    "system/waybar", ["system/wofi"]
+  ]
+}

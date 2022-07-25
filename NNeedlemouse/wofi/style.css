@@ -1,0 +1,21 @@
+#window {
+  background-color: rgba(45, 45, 45, 0.9);
+  border-radius: 2px;
+  color: rgba(255, 255, 255, 0.8);
+}
+
+#input {
+  background-color: transparent;
+  border-radius: 2px;
+  border: none;
+  color: white;
+}
+
+#inner-box {
+  margin: 2px;
+}
+
+#outer-box {
+  background-color: rgba(45, 45, 45, 0.9);
+  padding: 5px;
+}
