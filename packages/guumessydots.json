@@ -1,0 +1,16 @@
+{
+  "title": "guu's messydots",
+  "description": "Basic eww/bspwm I made while learning",
+  "fileLocation:": "/guu/messydots",
+  "versionInfo": {
+    "string": "1.0.0.0",
+    "extra": "",
+    "breaking": 1
+  },
+  "requiredPackages": [
+    "system/eww", "system/eww-git", "system/bspwm", "system/sxhkd",
+    "system/dunst", "system/kitty", "system/rofi", "system/picom",
+    "system/hsetroot", "system/playerctl", "system/xdo", "system/starship"
+  ],
+  "exampleImage": "/guu/messydots/basicshowcase.png"
+}
