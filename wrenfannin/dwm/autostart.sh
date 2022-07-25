@@ -1,2 +1,0 @@
-exec nitrogen --restore &
-
