@@ -1,0 +1,5 @@
+#!/bin/sh
+while true; do
+	eval dwmbarscripts
+	sleep 1
+done
