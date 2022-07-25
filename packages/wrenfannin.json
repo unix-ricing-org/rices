@@ -1,0 +1,14 @@
+
+{
+  "title": "Gregory Smith's DWM Configuration",
+  "description": "My build of DWM including configurations for some other useful applications",
+  "fileLocation:": "/wrenfannin/dwm",
+  "versionInfo": {
+    "string": "1.0.0.0",
+    "extra": "",
+    "breaking": 1
+  },
+  "requiredPackages": [
+    ["system/dunst", "system/picom", "system/sxhkd", "system/dmenu"]
+  ]
+}
