@@ -1,0 +1,3 @@
+#/bin/sh
+
+xsetroot -name "$(bar-fans) | $(bar-ram) | $(bar-cpu) | $(bar-volume) | $(bar-brightness) | $(bar-battery) $(bar-batterystatus) | $(bar-date) | $(bar-time) | $(bar-wlan) "

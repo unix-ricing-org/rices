@@ -1,0 +1,17 @@
+#!/bin/sh
+
+op1="Suspend"
+op2="Poweroff"
+op3="Reboot"
+
+ops="${op1}\n${op2}\n${op3}"
+
+selected=$(echo -e $ops | dmenu -l 3 -bw 2 -p "Powermenu:" -c)
+
+if [[ $selected == $op1 ]]; then
+    loginctl suspend && i3lock-color
+elif [[ $selected == $op2 ]]; then
+    loginctl poweroff
+elif [[ $selected == $op3 ]]; then
+    loginctl reboot
+fi

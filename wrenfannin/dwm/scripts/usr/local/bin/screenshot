@@ -1,0 +1,14 @@
+#!/bin/sh
+
+op1="Entire Screen"
+op2="Selected Area"
+
+ops="${op1}\n${op2}\n${op3}"
+
+selected=$(echo -e $ops | dmenu -l 2 -bw 2 -p "Screenshot:" -c)
+
+if [[ $selected == $op1 ]]; then
+    takeshot --now
+elif [[ $selected == $op2 ]]; then
+    takeshot --area
+fi
