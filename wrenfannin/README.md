@@ -29,7 +29,7 @@ Here you will find the DWM configuration that I daily drive on both of my comput
 ## Installation
 ### Packages
 To install most packages needed run the following command for **Arch Linux** 
-`sudo pacman -S sxhkd`nitrogen alacritty zsh dunst dmenu`
+`sudo pacman -S sxhkd nitrogen alacritty zsh dunst dmenu`
 
 ### Packages not in the offical repos
 - To install the correct picom fork, build the package found here - https://github.com/jonaburg/picom
