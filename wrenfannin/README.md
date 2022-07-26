@@ -41,7 +41,7 @@ After installing the correct programs and packages, copy over my configuration f
 `
 `cd rices/wrenfannin`
 
-`cp -r /* ~/.config
+`cp -r /* ~/.config`
 
 Next take scripts from the dwm folder and place them in usr/local/bin
 
