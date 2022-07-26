@@ -1,0 +1,32 @@
+{
+  "title": "tuyu dots",
+  "description": "minimal i3 rice config example",
+  "fileLocation:": "aishenreemo/tuyudots",
+  "versionInfo": {
+    "string": "1.0.23",
+    "extra": "",
+    "breaking": 1
+  },
+  "requiredPackages": [
+    "xorg",
+    "i3-gaps",
+    "alacritty",
+    "polybar",
+    "dunst",
+    "neovim",
+    "rofi",
+    "picom",
+    "zsh",
+    "hsetroot",
+    "xdg-utils",
+    "firefox",
+    "git",
+    "xcb-util-xrm"
+  ],
+  "optionalPackages": [
+    "tesseract-data-eng",
+    "gpick",
+    "maim"
+  ],
+  "exampleImage": "images/tuyudots.png"
+}
