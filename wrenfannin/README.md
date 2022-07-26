@@ -38,9 +38,13 @@ To install most packages needed run the following command for **Arch Linux**
 
 ### Confgiuration Files
 After installing the correct programs and packages, copy over my configuration files to your .config directory with:
+`
 `cd rices/wrenfannin`
+
 `cp -r /* ~/.config
+
 Next take scripts from the dwm folder and place them in usr/local/bin
+
 Finally place your autostart.sh , dunstrc , picom.conf and wallpaper.jpg into the .dwm directory, create this with `mkdir .dwm`if you don't have one
 
 ![2022-07-08_09-50](https://user-images.githubusercontent.com/64269332/177955275-6173dd25-2fd5-4f6a-822c-6ee4d465fc36.png)
