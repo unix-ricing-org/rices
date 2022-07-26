@@ -5,14 +5,23 @@ Here you will find the DWM configuration that I daily drive on both of my comput
 
 ## Dependancies and Requirements
 [**DWM**] for the window manager itself, all of the source code for which is in my DWM folder
+
 [**SXHKD**] for my hotkeys, however feel free to include these in the DWM config itself
+
 [**nitrogen**] for setting the wallpaper
+
 [**Alacritty**] for my terminal emulator, I have left it more or less stock so it's not important which terminal you end up choosing
+
 [**Zsh**] while not essential zsh is my choice of shell along with oh-my-zsh to make it more functional
+
 [**Dunst**] is used as my notification daemon
+
 [**Dmenu**] is my application launcher and could be replaced with a program like rofi for something more pretty
+
 [**Picom**] specifically the jonaburg fork - https://github.com/jonaburg/picom
+
 [**JetBrainsMono Nerd Font**]
+
 [**Ioveska Nerd Font**]
 
 
