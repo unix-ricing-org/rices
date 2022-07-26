@@ -33,7 +33,7 @@ To install most packages needed run the following command for **Arch Linux**
 
 ### Packages not in the offical repos
 - To install the correct picom fork, build the package found here - https://github.com/jonaburg/picom
-- To install fonts use `yay -S nerd-fonts-jetbrains-mono nerd-fonts-ioveska
+- To install fonts use `yay -S nerd-fonts-jetbrains-mono nerd-fonts-ioveska`
 - To install and build the source code for dmenu, follow instructions on the suckless.org website`
 
 ### Confgiuration Files
