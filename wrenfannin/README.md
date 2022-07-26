@@ -38,7 +38,7 @@ To install most packages needed run the following command for **Arch Linux**
 
 ### Confgiuration Files
 After installing the correct programs and packages, copy over my configuration files to your .config directory with:
-`
+
 `cd rices/wrenfannin`
 
 `cp -r /* ~/.config`
