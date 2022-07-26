@@ -1,5 +1,26 @@
 # Gregory Smith's DWM Configuration
 #### See Also https://github.com/wrenfannin/dots
+## Welcome to Gregory Smith's dotfiles!
+Here you will find the DWM configuration that I daily drive on both of my computers, things are kept very simple, essentially I have just added a bar and some patches to DWM to make it more functional while using things such as blur and a simple colourscheme to make things look pretty
+
+## Dependancies and Requirements
+[**DWM**] for the window manager itself, all of the source code for which is in my DWM folder
+[**SXHKD**] for my hotkeys, however feel free to include these in the DWM config itself
+[**nitrogen**] for setting the wallpaper
+[**Alacritty**] for my terminal emulator, I have left it more or less stock so it's not important which terminal you end up choosing
+[**Zsh**] while not essential zsh is my choice of shell along with oh-my-zsh to make it more functional
+[**Dunst**] is used as my notification daemon
+[**Dmenu**] is my application launcher and could be replaced with a program like rofi for something more pretty
+[**Picom**] specifically the jonaburg fork - https://github.com/jonaburg/picom
+[**JetBrainsMono Nerd Font**]
+[**Ioveska Nerd Font**]
+
+
+
+
+
+
+
 ### Requires the Following
 - DWM
 - https://github.com/jonaburg/picom
